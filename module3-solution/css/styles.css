@@ -4,3 +4,6 @@
 .bg-primary{
 	background-color: white;
 }
+.border-dark{
+	border: 5px;
+}
